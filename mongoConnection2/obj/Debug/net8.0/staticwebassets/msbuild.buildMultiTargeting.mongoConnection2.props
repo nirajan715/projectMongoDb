@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mongoConnection2.props" />
+</Project>
